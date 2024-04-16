@@ -1,0 +1,19 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "type": "module",
+  "scripts": {
+    "dev": "shopify theme dev",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.8",
+    "vite-plugin-shopify": "^3.0.1"
+  }
+}
